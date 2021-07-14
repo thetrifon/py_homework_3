@@ -19,3 +19,5 @@ def my_func():
 
 my_result = my_func()
 print(my_result)
+
+#не решал при помощи **
